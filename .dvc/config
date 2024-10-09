@@ -1,0 +1,4 @@
+[core]
+    remote = myorigin
+['remote "myorigin"']
+    url = C:\Users\SHIVRA~1\AppData\Local\Temp\Shivraj
